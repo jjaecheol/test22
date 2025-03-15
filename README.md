@@ -5,4 +5,4 @@
     - DB : PostgreSQL
 
 ## Maintainer
-    - sumin.yang (ysm@naver.com)
+    - jaecheol.lee (ljc@naver.com)
